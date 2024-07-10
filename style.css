@@ -1,4 +1,10 @@
 .first {
-  color: red;
+  position: relative;
+  left: 50%;
+  display: block;
+  width: 10%;
+  height: auto;
+  color: orange;
   font-size: 20px;
+  background-color: rgb(81, 218, 81);
 }
