@@ -1,6 +1,8 @@
 .first {
+  position: relative;
+  left: 50%;
   display: block;
-  width: 300px;
+  width: 10%;
   height: auto;
   color: orange;
   font-size: 20px;
